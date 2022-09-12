@@ -9,9 +9,10 @@ body{
 }
 
 .header{
-    padding: 15px;
+    padding: 20px;
     text-align: center;
-    background: white;
+    background: #126E51;
+   
 }
 
 .header h1{
@@ -33,7 +34,7 @@ body{
 }   
 
 .topnav a:hover{
-    background-color: #ddd;
+    background-color: #FFBB01;
     color: black;
 }
 
